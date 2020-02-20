@@ -1,1 +1,2 @@
 Some text on the first line
+Some text on the second line
